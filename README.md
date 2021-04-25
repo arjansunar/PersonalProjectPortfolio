@@ -13,17 +13,17 @@
 ![homepage](https://github.com/arjansunar/PersonalProjectPortfolio/blob/master/images/StegnoHomepage.png "stegno homepage")
 
 ---
-![login](./images/Stegno_login.PNG "login route")
+![login](https://github.com/arjansunar/PersonalProjectPortfolio/blob/master/images/Stegno_login.png"login route")
 
 
 ---
-![encode](./images/Stegno_encode.PNG "encode route") 
+![encode](https://github.com/arjansunar/PersonalProjectPortfolio/blob/master/images/Stegno_encode.png "encode route") 
 
 ---
-![email](./images/Stegno_email.PNG "email sent via stegno")
+![email](https://github.com/arjansunar/PersonalProjectPortfolio/blob/master/images/Stegno_email.png "email sent via stegno")
 
 ---
-![decode](./images/Stegno_decrypt.PNG "decode route")
+![decode](https://github.com/arjansunar/PersonalProjectPortfolio/blob/master/images/Stegno_decrypt.png "decode route")
 
 ---
 *	[MESSENGER-CLONE](https://github.com/arjansunar/messenger-clone) 
