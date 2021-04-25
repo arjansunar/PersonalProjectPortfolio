@@ -10,7 +10,7 @@
             3.	Sending email via application: node-mailer
             4.	Rest API routes: node and express 
 ---
-![homepage](./images/Stegno_homepage.PNG "stegno homepage")
+![homepage](./images/StegnoHomepage.PNG "stegno homepage")
 
 ---
 ![login](./images/Stegno_login.PNG "login route")
