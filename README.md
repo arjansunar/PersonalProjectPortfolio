@@ -10,6 +10,22 @@
             3.	Sending email via application: node-mailer
             4.	Rest API routes: node and express 
 ---
+![](./images/Stegno_homepage.PNG "stegno homepage")
+
+---
+![](./images/Stegno_login.PNG "login route")
+
+
+---
+![](./images/Stegno_encode.PNG "encode route") 
+
+---
+![](./images/Stegno_email.PNG "email sent via stegno")
+
+---
+![](./images/Stegno_decrypt.PNG "decode route")
+
+---
 *	[MESSENGER-CLONE](https://github.com/arjansunar/messenger-clone) 
 ---
     Real time group chat application with react and firebase.
@@ -20,6 +36,9 @@
             3.	Connecting applications to an online
                     database service 
 ---
+![messenger_clone](./images/MessengerClone.PNG "Messenger-clone")
+
+---
 
 *	[LISTO](https://github.com/arjansunar/listo) 📃
 ---
@@ -29,6 +48,12 @@
             1.	Managing routes: react-router 
             2.	State management: redux-toolkit
             3.	Consuming existing APIs: fetch API
+---
+![listo](./images/listo_search.PNG "listo Searchpage")
+
+---
+![Listo-redux](./images/listo_reduxToolkits.PNG "redux toolkit integration")
+    
 ---
 
 *	[CRYPTO](https://github.com/arjansunar/crypto) 🔐
