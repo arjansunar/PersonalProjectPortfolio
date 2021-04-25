@@ -34,7 +34,8 @@
 
 *	[CRYPTO](https://github.com/arjansunar/crypto) 
 ---
-    A library that provides functions to implement encryption such as Vernam, Caesar, mono-alphabetic, and play-fair cipher.
+    A library that provides functions to implement encryption such as Vernam, Caesar,
+    mono-alphabetic, and play-fair cipher.
 
         Topics learned: 
             1.	Creating Node modules
