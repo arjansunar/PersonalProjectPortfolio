@@ -44,6 +44,8 @@
                     database service 
 ## Challenges
 
+### The challenges in this project were related to learning and implementing unfamiliar technologies i.e [Firebase](https://firebase.google.com) and [material UI](https://material-ui.com) 
+
 ---
 ![messenger_clone](./images/MessengerClone.PNG "Messenger-clone")
 
@@ -58,6 +60,11 @@
             2.	State management: redux-toolkit
             3.	Consuming existing APIs: fetch API
 ## Challenges
+### This project required me to learn more about the "backend of frontend".
+
+- learning redux to manage the global shared state
+- implementing stores, actions and reducers with redux-toolkit
+- implementing routes with react router and adding url parameters to search for a specific id
 
 ---
 ![listo](./images/listo_search.PNG "listo Searchpage")
@@ -77,4 +84,8 @@
             2.	Implementing algorithms 
 ## Challenges
 
----
+### This project was my intro to node js and my first time creating js apps that ran outside of the browser.
+
+- learning the node modules and package manager
+- implementing theoritical algorithms into code
+- learning the common js syntax
