@@ -9,6 +9,13 @@
             2.	Image steganography: Lowest significant bit algorithm
             3.	Sending email via application: node-mailer
             4.	Rest API routes: node and express 
+## Challenges
+
+### The challenges in this project originated because of its "full-stack" nature. 
+
+- getting hold of the LSB algorithm and implementing it in node js 
+- learning about base64 format for file transfers in web
+- image formats and figuring out where (which bits) in the image to change to add a secret message signature   
 ---
 ![homepage](https://github.com/arjansunar/PersonalProjectPortfolio/blob/master/images/StegnoHomepage.png "stegno homepage")
 
@@ -35,6 +42,8 @@
             2.	React components
             3.	Connecting applications to an online
                     database service 
+## Challenges
+
 ---
 ![messenger_clone](./images/MessengerClone.PNG "Messenger-clone")
 
@@ -48,6 +57,8 @@
             1.	Managing routes: react-router 
             2.	State management: redux-toolkit
             3.	Consuming existing APIs: fetch API
+## Challenges
+
 ---
 ![listo](./images/listo_search.PNG "listo Searchpage")
 
@@ -64,4 +75,6 @@
         Topics learned: 
             1.	Creating Node modules
             2.	Implementing algorithms 
+## Challenges
+
 ---
