@@ -6,7 +6,7 @@
 
         Topics learned:
             1.	State management: react context API
-            2.	Image steganography: Lowest        significant bit algorithm
+            2.	Image steganography: Lowest significant bit algorithm
             3.	Sending email via application: node-mailer
             4.	Rest API routes: node and express 
 ---
