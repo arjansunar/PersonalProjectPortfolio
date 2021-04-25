@@ -19,7 +19,7 @@
             1.	Real time actions: firebase firestore
             2.	React components
             3.	Connecting applications to an online
-                database service 
+                    database service 
 ---
 
 *	[LISTO](https://github.com/arjansunar/listo)
