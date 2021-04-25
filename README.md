@@ -1,6 +1,6 @@
 # My projects 
 
-*	[STEGNO](https://github.com/arjansunar/Stegno)
+*	[STEGNO](https://github.com/arjansunar/Stegno) 🔏
 --- 
     A project that creates a simple UI to let users send a steganographic image through Gmail and decode it.
 
@@ -10,7 +10,7 @@
             3.	Sending email via application: node-mailer
             4.	Rest API routes: node and express 
 ---
-*	[MESSENGER-CLONE](https://github.com/arjansunar/messenger-clone)
+*	[MESSENGER-CLONE](https://github.com/arjansunar/messenger-clone) 
 ---
     Real time group chat application with react and firebase.
 
@@ -21,7 +21,7 @@
                     database service 
 ---
 
-*	[LISTO](https://github.com/arjansunar/listo)
+*	[LISTO](https://github.com/arjansunar/listo) 📃
 ---
     An anime search website that consumes and exiting API and manages state to show the requested anime.
         
@@ -31,7 +31,7 @@
             3.	Consuming existing APIs: fetch API
 ---
 
-*	[CRYPTO](https://github.com/arjansunar/crypto) 
+*	[CRYPTO](https://github.com/arjansunar/crypto) 🔐
 ---
     A library that provides functions to implement encryption such as Vernam, Caesar,
     mono-alphabetic, and play-fair cipher.
