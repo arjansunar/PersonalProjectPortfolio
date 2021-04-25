@@ -10,20 +10,20 @@
             3.	Sending email via application: node-mailer
             4.	Rest API routes: node and express 
 ---
-![](./images/Stegno_homepage.PNG "stegno homepage")
+![homepage](./images/Stegno_homepage.PNG "stegno homepage")
 
 ---
-![](./images/Stegno_login.PNG "login route")
+![login](./images/Stegno_login.PNG "login route")
 
 
 ---
-![](./images/Stegno_encode.PNG "encode route") 
+![encode](./images/Stegno_encode.PNG "encode route") 
 
 ---
-![](./images/Stegno_email.PNG "email sent via stegno")
+![email](./images/Stegno_email.PNG "email sent via stegno")
 
 ---
-![](./images/Stegno_decrypt.PNG "decode route")
+![decode](./images/Stegno_decrypt.PNG "decode route")
 
 ---
 *	[MESSENGER-CLONE](https://github.com/arjansunar/messenger-clone) 
